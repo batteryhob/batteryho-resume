@@ -25,5 +25,4 @@ Introduce
 
 ## Chatgpt
 
-<iframe src="http://batteryho-resume-web.s3-website.ap-northeast-2.amazonaws.com/" width="600" height="400"></iframe>
-
+{% embed url="[이력서에 궁금한 것을 물어보세요.](http://batteryho-resume-web.s3-website.ap-northeast-2.amazonaws.com/)" %}
