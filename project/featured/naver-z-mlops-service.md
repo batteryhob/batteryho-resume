@@ -18,6 +18,6 @@ react, redux/toolkit, redux/tookit-query, typescript가 사용되었습니다.
 
 <figure><img src="../../.gitbook/assets/6.48.35.png" alt=""><figcaption><p>Web IDE</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/6.49.42 (1).png" alt=""><figcaption><p>Web VNC Console</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.49.42 (1) (2).png" alt=""><figcaption><p>Web VNC Console</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/6.49.29.png" alt=""><figcaption><p>Customize Services</p></figcaption></figure>
