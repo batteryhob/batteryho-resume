@@ -12,19 +12,32 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
 
 ### Featured Work
 
-* 픽코마 프랑스 유지 운영
-  * Nextjs 13
-  * react-query
-  * pnpm&#x20;
-* 픽코마 프랑스 리팩토링 개선 작업
-  * atomic design pattern 도입
-  * pnpm 도입
-  * AWS lambda를 활용한 blurhash 도입
-* 픽코마 재팬 개선 작업 PL
-  * Teamcity 배포 인프라 개선
-  * AWS 배포 인프라 개선
-  * Django to Nextjs 14 마이그레이션
+* 구매동선 개선 작업
+  * 기술 스택
+    * Nextjs 13, react-query, tailwind css, AWS Lambda
+  * 내용
+    * 프랑스 현지 결제 모듈 axepta 연동 완료
+    * 글로벌 결제 모듈 paypal 연동 완료
+    * AWS Lambda를 활용하여 작품 이미지 해싱처리 (https://blurha.sh/) 기능 완료
+    * tailwindcss 사용하여 테블릿 및 landscape 모드 대응 완료
+  * 성과
+    * PU(결제 유저)/PRU(결제 후 재화 소비 유저) 10% 증가
 
+* 픽코마 재팬 프론트엔드 개선
+  * 기술 스택
+    * Nextjs 14, pnpm, Docker, AWS CodeDeploy
+  * 내용
+    * 픽코마 재팬 프론트엔드 개선 프로젝트 리더
+    * pnpm(https://pnpm.io/ko/) 기반으로 공통 Repository 관리 도입 완료 배포
+    * 프로세스 개선을 위해 Teamcity + AWS CodeDeploy 도입 완료
+    * Python Django 기반 서비스를 Nextjs 14를 사용하여 마이그레이션 작업 완료
+
+* "기다리면 무료" 리브랜딩 작업
+  * 기술 스택
+    * Nextjs 13, Docker
+  * 내용
+    * framer-motion(https://www.framer.com/motion/)을 사용하여 서비스 애니메이션 공통 모듈로 작업 완료
+    * atom design pattern 도입하여 component 관리 rule 확립
 
 
 ## _**Naver Z | 2022.04.18 - 2022.09.20**_
@@ -34,7 +47,7 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
 ### Featured Work
 
 * 네이버 Z MLOps 시스템 개발 및 런칭
-* 네이버 클라우드 협업 논의
+* 네이버 클라우드 협업 수익화 논의 진행
 
 
 
