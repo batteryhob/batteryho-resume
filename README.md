@@ -25,4 +25,6 @@ Introduce
 
 ## Chatgpt
 
+OpenAPI를 이용해 이력서에 관한 챗봇을 만들었습니다.
+
 {% embed url="[이력서에 궁금한 것을 물어보세요.](http://batteryho-resume-web.s3-website.ap-northeast-2.amazonaws.com/)" %}
