@@ -25,9 +25,5 @@ Introduce
 
 ## Chatgpt
 
-<figure><img src=".gitbook/assets/스크린샷 2024-06-20 오후 4.23.16.png" alt="" width="331"><figcaption></figcaption></figure>
-
-{% embed url="http://batteryho-resume-web.s3-website.ap-northeast-2.amazonaws.com/" %}
-이력서에 대해 질문할 수 있습니다.
-{% endembed %}
+<iframe src="http://batteryho-resume-web.s3-website.ap-northeast-2.amazonaws.com/" width="600" height="400"></iframe>
 
