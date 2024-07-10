@@ -28,7 +28,5 @@ Introduce
 chatgpt api를 이용해 이력서에 대해 질의할 수 있는 챗봇을 만들었습니다.
 
 {% embed url="http://batteryho-resume-web.s3-website.ap-northeast-2.amazonaws.com/" %}
-이력서에 대해 질문할 수 있습니다.
-{% endembed %}
 
 <figure><img src=".gitbook/assets/스크린샷 2024-06-19 오후 3.56.51.png" alt="" width="375"><figcaption></figcaption></figure>
