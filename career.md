@@ -8,10 +8,27 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
 
 <img src=".gitbook/assets/ekXAqeFaG118cKHJKImDtlSkVYHejGYdriQ3o96OD5Pag8amOFjAB7RxPa3Ibg3Cn25hXZeYffH640q8Oije2A.svg" alt="" data-size="line">
 
-> Global 웹 개발 실
+> 데이터툴팀
 
 ### Featured Work
 
+* Observer 개발 (사내 데이터 기반 업무 효율 시스템)
+  * 기술 스택
+    * react 18, react-query
+  * 내용
+    * 일본 픽코마 데이터 기반 업무 효율 및 데이터 분석 시스템
+  * 성과
+    * 출시 후, 사내 필수 시스템으로 관리.
+    * 모든 엑셀 업무 대체
+    * AI 기반 챗봇으로 업무 효율화
+* Tsuchan 개발
+  * 기술 스택
+    * fastAPI, AWS Bedrock, Clade 3.5
+  * 내용
+    * 사내 LLM기반 챗봇 시스템
+  * 성과
+    * Observer 연동
+    * Observer 서비스 및 데이터 기반으로 사내 sLM 시스템 구현
 * 구매동선 개선 작업
   * 기술 스택
     * Nextjs 13, react-query, tailwind css, AWS Lambda
@@ -22,7 +39,6 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
     * tailwindcss 사용하여 테블릿 및 landscape 모드 대응 완료
   * 성과
     * PU(결제 유저)/PRU(결제 후 재화 소비 유저) 10% 증가
-
 * 픽코마 재팬 프론트엔드 개선
   * 기술 스택
     * Nextjs 14, pnpm, Docker, AWS CodeDeploy
@@ -31,7 +47,6 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
     * pnpm(https://pnpm.io/ko/) 기반으로 공통 Repository 관리 도입 완료 배포
     * 프로세스 개선을 위해 Teamcity + AWS CodeDeploy 도입 완료
     * Python Django 기반 서비스를 Nextjs 14를 사용하여 마이그레이션 작업 완료
-
 * "기다리면 무료" 리브랜딩 작업
   * 기술 스택
     * Nextjs 13, Docker
@@ -39,25 +54,18 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
     * framer-motion(https://www.framer.com/motion/)을 사용하여 서비스 애니메이션 공통 모듈로 작업 완료
     * atom design pattern 도입하여 component 관리 rule 확립
 
-
 ## _**Naver Z | 2022.04.18 - 2022.09.20**_
 
-> &#x20;Internal Service
+> Internal Service
 
 ### Featured Work
 
 * 네이버 Z MLOps 시스템 개발 및 런칭
 * 네이버 클라우드 협업 수익화 논의 진행
 
-
-
 ## _**Nexon | 2019.01.07 - 2022.04.15**_
 
-<div align="left">
-
-<img src=".gitbook/assets/nexon.jpg" alt="">
-
-</div>
+<div align="left"><img src=".gitbook/assets/nexon.jpg" alt=""></div>
 
 > 인텔리전스랩스 머신러닝파트 | 파트장
 
@@ -75,52 +83,44 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
 ### Result
 
 * Vuejs, React 프로젝트 전문성 함양
-* Docker, Kubernetes 인프라 기술 적극 활용&#x20;
+* Docker, Kubernetes 인프라 기술 적극 활용
 * AWS 클라우드 인프라 활용
-* 머신러닝 인프라 도입&#x20;
-* 카트라이더 전적 조회 DAU 1만, 네이버 블로그, 유튜브 컨텐츠 유도&#x20;
+* 머신러닝 인프라 도입
+* 카트라이더 전적 조회 DAU 1만, 네이버 블로그, 유튜브 컨텐츠 유도
 * 성과평가 우수
 
 ## _Interpark | 2017.05.16 - 2018.12.14_
 
-<div align="left">
+<div align="left"><img src=".gitbook/assets/interpark.jpg" alt=""></div>
 
-<img src=".gitbook/assets/interpark.jpg" alt="">
-
-</div>
-
-> Front 개발팀 | 대리&#x20;
+> Front 개발팀 | 대리
 
 ### Work
 
-* 인터파크 투어 모바일 리뉴얼 FrontEnd 개발 리딩&#x20;
+* 인터파크 투어 모바일 리뉴얼 FrontEnd 개발 리딩
 * 인터파크 투어 통합검색 PC 서비스 FrontEnd 개발
 * 인터파크 투어 통합검색 모바일 서비스 FrontEnd 개발
-* 인터파크 투어 챗봇 톡집사 서비스 FrontEnd 개발&#x20;
+* 인터파크 투어 챗봇 톡집사 서비스 FrontEnd 개발
 * 인터파크 투어 6회 온라인 박람회 사이트 FrontEnd 개발
 
 ### Result
 
 * Vuejs, React 프로젝트 다수 수행
-* 사내 Javascript 강사 (강의자료 |  [https://github.com/batteryhob/javascript-lecture-pdf.git](https://github.com/batteryhob/javascript-lecture-pdf.git) )
-* 프로젝트 리딩 경험&#x20;
+* 사내 Javascript 강사 (강의자료 | [https://github.com/batteryhob/javascript-lecture-pdf.git](https://github.com/batteryhob/javascript-lecture-pdf.git) )
+* 프로젝트 리딩 경험
 * 다수의 리뉴얼 서비스 안정화
-* 성과평가 우수&#x20;
+* 성과평가 우수
 
 ## _**Adqua Interactive | 2015.01.26 - 2017.04.18**_
 
-<div align="left">
+<div align="left"><img src=".gitbook/assets/adqua.jpg" alt=""></div>
 
-<img src=".gitbook/assets/adqua.jpg" alt="">
+> Tech 본부 | 주임
 
-</div>
-
-> Tech 본부 | 주임&#x20;
-
-### Featured  Work
+### Featured Work
 
 * 시몬스 브랜드 쇼핑몰 리뉴얼 웹 개발
-* 세노비스 브랜드 쇼핑몰 웹 개발&#x20;
+* 세노비스 브랜드 쇼핑몰 웹 개발
 * 다수의 프로모션 페이지 웹 개발
 
 ### Result
@@ -129,24 +129,20 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
 * Angular 프로젝트 수행
 * PG 결제 관련 웹 개발
 * Socket 관련 웹 개발
-* 시몬스 브랜드 사이트 매출 증가&#x20;
-* 2015년 웹어워드 코리아 최우수상 수상&#x20;
+* 시몬스 브랜드 사이트 매출 증가
+* 2015년 웹어워드 코리아 최우수상 수상
 
 ## _Sammi Information System | 2013.11.01 - 2015.01.08_
 
-<div align="left">
+<div align="left"><img src=".gitbook/assets/sammi.jpg" alt=""></div>
 
-<img src=".gitbook/assets/sammi.jpg" alt="">
-
-</div>
-
-> 시스템사업부 | 사원&#x20;
+> 시스템사업부 | 사원
 
 ### Work
 
-* MES 관련 웹 개발&#x20;
-* Socket 관련 웹 개발&#x20;
+* MES 관련 웹 개발
+* Socket 관련 웹 개발
 
 ### Result
 
-* 후속 프로젝트 수주&#x20;
+* 후속 프로젝트 수주
