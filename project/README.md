@@ -5,11 +5,11 @@ description: 프로젝트 개요
 # Project
 
 {% hint style="info" %}
-제가 진행한 프로젝트의 주요 내용들과 샘플 코드를 담았습니다. 매우 바쁘시다면 _Featured_만 읽으셔도 무방합니다.
+제가 진행한 프로젝트의 주요 내용들과 샘플 코드를 담았습니다. 매우 바쁘시다면 _Feature&#x64;_&#xB9CC; 읽으셔도 무방합니다.
 {% endhint %}
 
 {% hint style="info" %}
-_Skill Set_은 _Project_마다 상세히 기록했습니다. 하나씩 체크해주시면 감사하겠습니다.
+_Skill Se&#x74;_&#xC740; _Projec&#x74;_&#xB9C8;다 상세히 기록했습니다. 하나씩 체크해주시면 감사하겠습니다.
 {% endhint %}
 
 ## FAQ

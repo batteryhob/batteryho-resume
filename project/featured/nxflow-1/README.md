@@ -5,7 +5,7 @@ description: 머신러닝 프로세스 자동화 서비스 | 넥슨 인텔리전
 # Nexon Nxflow
 
 {% hint style="info" %}
-_react redux sass ejs webpack gulp python flask docker kubernetes aws-eks_가 사용되었습니다.
+_react redux sass ejs webpack gulp python flask docker kubernetes aws-ek&#x73;_&#xAC00; 사용되었습니다.
 {% endhint %}
 
 ![Nxflow 동작 화면](../../../.gitbook/assets/nxflow.gif)
