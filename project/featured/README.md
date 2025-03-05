@@ -6,6 +6,16 @@ description: 주요 프로젝트
 
 업무 연관성을 기준으로 구분된 주요 프로젝트입니다.
 
+
+
+{% content-ref url="kakao-piccoma-tsuchan.md" %}
+[kakao-piccoma-tsuchan.md](kakao-piccoma-tsuchan.md)
+{% endcontent-ref %}
+
+{% content-ref url="kakao-piccoma-observer.md" %}
+[kakao-piccoma-observer.md](kakao-piccoma-observer.md)
+{% endcontent-ref %}
+
 {% content-ref url="naver-z-mlops-service.md" %}
 [naver-z-mlops-service.md](naver-z-mlops-service.md)
 {% endcontent-ref %}
