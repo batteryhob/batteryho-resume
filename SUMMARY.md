@@ -4,6 +4,7 @@
 * [Career](career.md)
 * [Project](project/README.md)
   * [Featured](project/featured/README.md)
+    * [Kakao Piccoma Tsuchan](project/featured/kakao-piccoma-tsuchan.md)
     * [Kakao Piccoma Observer](project/featured/kakao-piccoma-observer.md)
     * [Naver Z MLOps Service](project/featured/naver-z-mlops-service.md)
     * [Nexon Focus Group Test](project/featured/nexon-digital-signage/README.md)
