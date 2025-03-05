@@ -29,3 +29,9 @@ _webrtc(실시간 영상처리) vuejs socket.io flask tensorflow(머신러닝) k
 영상과 프레임 인퍼런스를 서로 다른 프로세스로 진행하고 결과를 합쳐서 보여주도록 했습니다. webrtc로 연결된 스트림위에 소켓통신으로 프레임 단위로 진행된 인퍼런스 결과를 css로 보여주었습니다.
 
 ![](../../../.gitbook/assets/디지털사이니지.png)
+
+## 프로젝트 발표 자료
+
+<figure><img src="../../../.gitbook/assets/스크린샷 2025-03-05 오전 10.46.17.png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../../../.gitbook/assets/11월쇼케이스_전지호.pdf" %}
