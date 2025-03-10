@@ -1,5 +1,5 @@
 ---
-description: 안녕하세요. FrontEnd + Fullstack 개발직군에 지원하는 전지호의 경력기술서입니다.
+description: 안녕하세요. Fullstack 개발직군에 지원하는 전지호의 경력기술서입니다.
 ---
 
 # Hello World

@@ -4,22 +4,22 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
 
 # Career
 
-## Kakao Piccoma _**| 2022.11.01 - Current**_
+Kakao Piccoma _**| 2022.11.01 - Current**_
 
 <img src=".gitbook/assets/ekXAqeFaG118cKHJKImDtlSkVYHejGYdriQ3o96OD5Pag8amOFjAB7RxPa3Ibg3Cn25hXZeYffH640q8Oije2A.svg" alt="" data-size="line">
 
-> 데이터툴팀
+> 데이터툴 개발팀
 
 ### Featured Work
 
 * Observer 개발 (사내 데이터 기반 업무 효율 시스템)
   * 기술 스택
-    * react 18, react-query
+    * react 18, react-query, fastAPI
   * 내용
     * 일본 픽코마 데이터 기반 업무 효율 및 데이터 분석 시스템
   * 성과
-    * 출시 후, 사내 필수 시스템으로 관리.
-    * 모든 엑셀 업무 대체
+    * 런칭 직 후, 사내 필수 시스템으로 전사 관리.
+    * 기존 엑셀 기반 업무를 시스템으로 대체
     * AI 기반 챗봇으로 업무 효율화
 * Tsuchan 개발
   * 기술 스택
@@ -29,6 +29,7 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
   * 성과
     * Observer 연동
     * Observer 서비스 및 데이터 기반으로 사내 sLM 시스템 구현
+    * 자연어 기반의 Observer 인터페이스 연동
 * 구매동선 개선 작업
   * 기술 스택
     * Nextjs 13, react-query, tailwind css, AWS Lambda
@@ -55,6 +56,8 @@ description: 최근 경력부터 간단히 기술했습니다. 자세한 사항�
     * atom design pattern 도입하여 component 관리 rule 확립
 
 ## _**Naver Z | 2022.04.18 - 2022.09.20**_
+
+<img src=".gitbook/assets/download.jpg" alt="" data-size="line">
 
 > Internal Service
 
